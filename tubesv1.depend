@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1555341598 source:d:\cpp\tubesv1\main.cpp
+	"multilist.h"
+
+1555137730 d:\cpp\tubesv1\multilist.h
+	<iostream>
+
+1555341684 source:d:\cpp\tubesv1\multilist.cpp
+	"multilist.h"
+
